@@ -1,6 +1,7 @@
 # TradingCards
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.10.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.10.  
+Source: https://www.youtube.com/watch?v=U71TQN68QGU&list=LL&index=1&t=319s
 
 ## Development server
 
