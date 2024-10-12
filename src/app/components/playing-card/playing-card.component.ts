@@ -9,5 +9,7 @@ import {Monster} from "../../models/monster.model";
   styleUrl: './playing-card.component.css'
 })
 export class PlayingCardComponent {
-  @Input() monster: Monster = new Monster();
+  @Input({
+    alias: 'my-monster'
+  }) monster: Monster = new Monster();
 }
